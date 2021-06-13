@@ -1,0 +1,7 @@
+﻿{
+	"name": "RealBizGames.UserPlayingData.GameSetting.Runtime",
+	"references": [
+		"RealBizGames.Data.Runtime",
+		"RealBizGames.ChainPattern.Runtime"
+    ]
+}
